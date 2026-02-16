@@ -1,0 +1,21 @@
+[2026-02-14 08:46:29] Database Error during registration: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'full_name' in 'field list'
+[2026-02-14 08:46:37] Database Error during registration: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'full_name' in 'field list'
+[2026-02-14 08:46:44] Database Error during registration: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'full_name' in 'field list'
+[2026-02-14 11:18:09] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:18:12] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:18:12] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:01] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:08] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:15] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:24] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:40] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:29:52] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:33:23] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:33:25] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:33:25] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:33:26] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:33:57] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:35:57] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:35:59] Database Error during registration: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'event_management.event_registrations' doesn't exist
+[2026-02-14 11:55:45] Database Error during verification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.ticket_id' in 'where clause'
+[2026-02-14 11:55:48] Database Error during verification: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.ticket_id' in 'where clause'
